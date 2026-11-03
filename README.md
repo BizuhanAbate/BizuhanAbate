@@ -131,7 +131,7 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 
 
 
-<h2 align="center">📊 GitHub Overview</h2>
+##📊 GitHub Overview
 
 <p align="center">
   <img
@@ -162,8 +162,16 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true" height="165" /> -->
+
+
+    <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180" width="100%"
+    alt="Most used programming languages"
+  />
+
 
    <img src="https://github-stats-extended.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="200%" width="100%" />
 </p>
