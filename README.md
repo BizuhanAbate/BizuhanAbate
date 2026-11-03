@@ -104,23 +104,6 @@ Here are some of my selected development projects and practical work.
   </tr>
 </table>
 
-## 🔬 Research & Publications
-
-**Adaptive Welfare Weighting for Enhanced Fairness Integration in Cooperative Multi-Agent Proximal Policy Optimization**
-
-📖 Published in **IEEE Access**.
-
-My research explores the fairness-efficiency trade-off in cooperative multi-agent reinforcement learning, focusing on adaptive welfare weighting to promote more equitable outcomes among agents.
-
-Research interests include:
-
-- Fairness-aware policy optimization.
-- Adaptive welfare weighting.
-- Cooperative multi-agent reinforcement learning.
-- Balancing collective performance and individual welfare.
-
-
-
 
 ## 🔬 Research & Publications
 
