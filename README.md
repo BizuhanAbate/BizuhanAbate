@@ -136,12 +136,12 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180" width ="50%"
+    height="200"
     alt="Bizuhan's GitHub statistics"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180" width ="50%"
+    height="200"
     alt="Most used programming languages"
   />
 </p>
@@ -149,7 +149,7 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=BizuhanAbate&theme=tokyonight&hide_border=true"
-    height="180" width ="50%"
+    height="200" width ="90%"
     alt="GitHub contribution streak"
   />
 </p>
