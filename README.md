@@ -135,7 +135,7 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 
 <p align="center">
     <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&theme=tokyonight&hide_border=true&langs_count=8"
     height="200"
     alt="Most used programming languages"
   />
