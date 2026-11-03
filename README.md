@@ -7,12 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BizuhanAbate">
-    <img src="https://img.shields.io/badge/GitHub-BizuhanAbate-181717?style=for-the-badge&logo=github" />
+  <a href="https://bizuhanabate.github.io/professional-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0D9488?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Machine%20Learning-2563EB?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/bizuhan06abate/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/BizuhanAbate">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -21,9 +27,9 @@ I am an Artificial Intelligence graduate from **Addis Ababa University**, passio
 My interests lie at the intersection of Artificial Intelligence, Machine Learning, Reinforcement Learning, and Software Engineering.
 
 - 🎓 M.Sc. in Artificial Intelligence — Addis Ababa University.
-- 🔬 Research interests in Multi-Agent Reinforcement Learning and Fairness-Aware AI.
-- 📚 University lecturer with a passion for teaching and knowledge sharing.
-- 💻 Software developer interested in building practical, scalable applications.
+- 🔬 Researcher in Multi-Agent Reinforcement Learning and Fairness-Aware AI.
+- 📚 University lecturer passionate about teaching and knowledge sharing.
+- 💻 Software developer interested in building practical and scalable applications.
 - 🌱 Continuously learning, experimenting, and exploring emerging technologies.
 
 ## 🧠 Areas of Interest
@@ -45,7 +51,7 @@ My interests lie at the intersection of Artificial Intelligence, Machine Learnin
   <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,dart" />
 </p>
 
-**AI, Machine Learning & Data**
+**AI, Machine Learning & Data Science**
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
@@ -57,42 +63,92 @@ My interests lie at the intersection of Artificial Intelligence, Machine Learnin
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter" />
 </p>
 
-**Backend, Database & Development Tools**
+**Backend, Databases & Development Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,linux,vscode" />
 </p>
 
+## 🚀 Featured Projects
+
+Here are some of my selected development projects and practical work.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 TeamTrack – DailyTracker</h3>
+      <p>A web-based employee timesheet and project management application designed to streamline daily work logging, task tracking, approvals, and project monitoring.</p>
+      <p><b>Technologies:</b> Flutter, Firebase, Supabase</p>
+      <a href="https://timesheet.adanetech.com/">
+        <img src="https://img.shields.io/badge/Live%20Application-Visit%20Project-0D9488?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ AdaneTech Automation Systems</h3>
+      <p>A corporate website presenting industrial automation, control systems, and engineering solutions, with a modern and responsive web experience.</p>
+      <p><b>Technologies:</b> React, TypeScript, Tailwind CSS, Vite</p>
+      <a href="https://adanetech.com/">
+        <img src="https://img.shields.io/badge/Live%20Website-Visit%20Project-0D9488?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 Professional Portfolio</h3>
+      <p>My personal academic and professional portfolio, showcasing my background, teaching experience, research interests, technical skills, and professional journey.</p>
+      <p><b>Technologies:</b> React, TypeScript, Tailwind CSS</p>
+      <a href="https://bizuhanabate.github.io/professional-portfolio/">
+        <img src="https://img.shields.io/badge/Explore%20Portfolio-View%20Website-0D9488?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🔬 Research & Publications
 
 **Adaptive Welfare Weighting for Enhanced Fairness Integration in Cooperative Multi-Agent Proximal Policy Optimization**
 
-Published in **IEEE Access**.
+📖 Published in **IEEE Access**.
 
 My research explores the fairness-efficiency trade-off in cooperative multi-agent reinforcement learning, focusing on adaptive welfare weighting to promote more equitable outcomes among agents.
 
 Research interests include:
+
 - Fairness-aware policy optimization.
 - Adaptive welfare weighting.
 - Cooperative multi-agent reinforcement learning.
 - Balancing collective performance and individual welfare.
 
-## 🚀 Projects & Development
 
-I enjoy transforming ideas into practical software solutions.
 
-Some of my development interests and projects include:
 
-- **AI & ML Research:** Experimenting with machine learning models, reinforcement learning algorithms, and intelligent systems.
-- **TeamTrack:** Employee timesheet, project tracking, and workflow management application.
-- **Web Development:** Building responsive and modern web applications using React, TypeScript, and Tailwind CSS.
-- **Mobile Development:** Developing cross-platform applications using Flutter.
-- **Business Automation:** Exploring software solutions that improve organizational processes and productivity.
+## 🔬 Research & Publications
+
+### 📖 IEEE Access Publication
+
+**[Adaptive Welfare Weighting for Enhanced Fairness Integration in Cooperative Multi-Agent Proximal Policy Optimization](https://ieeexplore.ieee.org/abstract/document/11435348/)**
+
+<p>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11435348/">
+    <img src="https://img.shields.io/badge/IEEE%20Access-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Research-Multi--Agent%20Reinforcement%20Learning-0D9488?style=for-the-badge" />
+</p>
+
+My research explores the fairness-efficiency trade-off in cooperative multi-agent reinforcement learning, introducing an adaptive welfare weighting approach to promote more equitable outcomes among agents while maintaining collective performance.
+
+**Research focus:**
+- Fairness-aware policy optimization.
+- Adaptive welfare weighting.
+- Cooperative multi-agent reinforcement learning.
+- Balancing collective performance and individual welfare.
+
+🔗 **Read the publication:** [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11435348/)
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -105,13 +161,12 @@ Some of my development interests and projects include:
 I am always interested in connecting with researchers, developers, educators, and technology enthusiasts to exchange ideas, collaborate, and explore opportunities.
 
 <p align="center">
-  <a href="https://github.com/BizuhanAbate">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/bizuhan06abate/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn URL here -->
-  <!-- <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
+  <a href="https://bizuhanabate.github.io/professional-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-My%20Journey-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
