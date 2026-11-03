@@ -131,15 +131,16 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 ## 📊 GitHub Overview
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=BizuhanAbate&theme=tokyonight&hide_border=true" width="1000%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
    <img src="https://github-stats-extended.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="200%" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BizuhanAbate&theme=tokyonight&hide_border=true" width="70%" />
-</p>
 
 ## 🤝 Let's Connect
 
