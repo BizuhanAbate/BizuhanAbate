@@ -134,44 +134,25 @@ My research explores the fairness-efficiency trade-off in cooperative multi-agen
 ## 📊 GitHub Overview
 
 <p align="center">
+    <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="200"
+    alt="Most used programming languages"
+  />
   <img
     src="https://github-stats-extended.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     height="200"
     alt="Bizuhan's GitHub statistics"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="200"
-    alt="Most used programming languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=BizuhanAbate&theme=tokyonight&hide_border=true"
-    height="200" width ="90%"
+    height="200" width ="100%"
     alt="GitHub contribution streak"
   />
 </p>
-
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BizuhanAbate&theme=tokyonight&hide_border=true" width="1000%" />
-</p>
-
-<p align="center">
-    <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BizuhanAbate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180" width="100%"
-    alt="Most used programming languages"
-  />
-
-
-   <img src="https://github-stats-extended.vercel.app/api?username=BizuhanAbate&show_icons=true&theme=tokyonight&hide_border=true" height="200%" width="100%" />
-</p>
-
 
 ## 🤝 Let's Connect
 
